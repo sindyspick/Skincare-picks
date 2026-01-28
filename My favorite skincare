@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', Arial, sans-serif;
+  background: #fff0f5;
+  color: #333;
+}
+
+nav {
+  background: #f48fb1;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.product {
+  background: white;
+  padding: 18px;
+  border-radius: 16px;
+  margin-bottom: 18px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.06);
+}
+
+.product h3 {
+  margin-top: 0;
+}
+
+.product ul {
+  padding-left: 18px;
+}
+
+.btn {
+  display: block;
+  text-align: center;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 30px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.shopee {
+  background: #ff7337;
+}
+
+.tiktok {
+  background: #000;
+}
+
+footer {
+  background: #fde1eb;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+  margin-top: 30px;
+}
